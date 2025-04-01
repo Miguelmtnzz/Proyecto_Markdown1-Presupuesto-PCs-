@@ -26,7 +26,7 @@
 | INT1212   | INTEL Core I5-12400F 4.4GHz LGA 1700                                     | 1     | 127,90€      | 127,90€      | [Enlace](https://www.pcbox.com/nxhummernova-caja-semitorre-nox-hummer-nova-ventana-argb-s-f-usb-3-0-negro/p)|
 | HID1161   | FUENTE ALIMENTACION 750W HIDITED B2750 80+ BRONZE                        | 1     | 65,05€       | 65,05€       | [Enlace](#) |
 | CRC562    | CRUCIAL P3 SSD 1000GB M.2 3500MB/s PCI Express 3.0 NVMe                  | 1     | 63,73€       | 63,73€       | [Enlace](https://www.pcbox.com/psu010008-fuente-alimentacion-750w-hiditec-bz750-80--bronze/p) |
-| MSI3667   | TARJETA GRAFICA MSI NVIDIA RTX 4060 VENTUS 2X OC 9GB GDDR6               | 1     | 339,01€      | 339,01€      | [Enlace](https://www.pcbox.com/912-v516-004-tarjeta-grafica-msi-rtx-4060-ventus-2x-black-8gb-oc-gddr6x/p|
+| MSI3667   | TARJETA GRAFICA MSI NVIDIA RTX 4060 VENTUS 2X OC 9GB GDDR6               | 1     | 339,01€      | 339,01€      | [Enlace](https://www.pcbox.com/912-v516-004-tarjeta-grafica-msi-rtx-4060-ventus-2x-black-8gb-oc-gddr6x/p)|
 | ASK6756   | Asus Intel PRIME H610M-K D4 LGA 1700                                     | 1     | 87,45€       | 87,45€       | [Enlace](https://www.pcbox.com/90mb1a10-m0eay0-asus-intel--prime-h610m-k-d4-lga-1700/p)|
 | HYP242    | MEMORIA RAM KINGSTON FURY 32GB DDR4 3200Mhz (1x32) CL16                  | 1     | 70,47€       | 70,47€       | [Enlace](https://www.pcbox.com/kf432c16bb-32-kingston-fury-beast--32gb-ddr4-3200mhz---1x32---cl16/p)|
 | AER479    | Aerocol Refrigeracion MIRAGE L360 INFINITY ARGB                          | 1     | 130,32€      | 130,32€      | [Enlace](https://www.pcbox.com/miragel360w-aerocool-refrigeracion-mirage-l360-infinity-argb/p) |
